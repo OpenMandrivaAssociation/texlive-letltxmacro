@@ -3,7 +3,7 @@ Version:	53022
 Release:	2
 Summary:	Let assignment for LaTeX macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/letltxmacro
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/letltxmacro
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letltxmacro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/letltxmacro.doc.r%{version}.tar.xz
